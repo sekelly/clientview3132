@@ -1,2 +1,2 @@
-# clientview3132
-3.13.2
+# vanilla
+vanilla js websdk
